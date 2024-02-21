@@ -1,6 +1,6 @@
 # Hola, soy Gonzalo Ramirez 👋
 
-Desarrollador Frontend de Argentina, apasionado por crear aplicaciones web impactantes.
+Desarrollador Frontend de Argentina, apasionado por crear aplicaciones web.
 
 ## Conocimientos 🚀
 - React, NodeJS, MongoDB, SQL, JavaScript 🌐
