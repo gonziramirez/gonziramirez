@@ -1,7 +1,6 @@
 # Hola, soy Gonzalo Ramirez 👋
 
 Desarrollador Frontend de Argentina, apasionado por crear aplicaciones web.
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 ## Proyectos 🚀
 1. **Landing Page**
