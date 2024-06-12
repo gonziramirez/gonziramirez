@@ -5,6 +5,8 @@ Desarrollador Frontend de Argentina, apasionado por crear aplicaciones web.
 ## Proyectos 🚀
 1. **Landing Page**
 2. **E-commerce - Carrito de Compras**
+3. **Piedra Papel o Tijera**
+4. **Portfolio**
 
 ## Educación 📚
 - Secundario Completo - IPEM 38 🎓
